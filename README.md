@@ -1,7 +1,7 @@
 ```javascript
 const Saddam_Hossain = {
     pronouns: "He | Him",
-    codeWith: ["Javascript","Python","PHP","c++"],
+    codeWith: ["Javascript","Python","PHP"],
     askMeAbout: ["SoftWare Engineer"],
     technologies: {
         backEnd: ["Python","PHP"],
